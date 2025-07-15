@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<style>
+  body > h1:first-of-type {
+    display: none;
+  }
+</style>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
